@@ -10,3 +10,15 @@ It is a simple desktop application without any ads and uses very trial
 API’s for the successful working of the modules. The designing of the 
 UI’s have been done with the Qt Designer and the coding part with 
 Python3 and the PyQt5 framework for Python.
+
+
+1.1 Scope of the Project
+In our application we can do the following tasks: 
+ Send free voice messages 
+ Store and Backup contacts 
+ Browse the internet using the Browser 
+ Write and save notes 
+ Make basic calculations using the Calculator 
+ Have access to the Calendar 
+ Get to know the present weather conditions using the Weather 
+app. 
